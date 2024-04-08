@@ -331,69 +331,7 @@ button:hover{
     background-color: blue;
     color: white;
     background-color: transparent;
-}
-
-.projects{
-    background-color:#403c3c;
-    width: 100%;
-    padding: 100px 0px;
-}
-.title h2{
-    color: white;
-    font-size:47px;
-    text-transform: capitalize;
-    margin-bottom: 20px;
-}
-.box{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 400px;
-    flex-wrap: wrap;
-}
-.cards{
-    height: auto;
-    width: 335px;
-    padding: 20px 35px;
-    background-color: #796c6c;
-    border-radius: 20px;
-    margin: 15px;
-    position: relative;
-    /* overflow:scroll; */
-    text-align: center;
-}
-.cards img{
-    width: 300px;
-    margin-left: -16px;
-}    
-h5{
-    color: white;
-    font-size: 20px;
-    margin-bottom: 15px;
-}
-.card-body p{
-    /* color: */
-    font-size: 16px;
-    line-height: 27px;
-    margin-bottom:25px;
-}
-.cards .button{
-    color:#eee;
-    background: black;
-    font-size: 16px;
-    font-weight: bold;
-    padding: 8px 22px;
-    border: 2px solid grey;
-    border-radius: 30px;
-    cursor: pointer;
-}
-.cards .button:hover{
-    
-    background: grey;
-    border: 2px solid black;
-    color: black;
-    transition: .4s;
-}
+};
 .contact{
     background-image: url('image5.jpg');
     filter:brightness(90%);
